@@ -41,35 +41,35 @@ Specifications:
 
 • Block Time:       1 minute
 
-• Block Reward:     100 ABTC
+• Block Reward:     1 YOD
 
 • Difficulty:       Every block
 
-• Halving:          105,120 blocks (73 days)
+• Halving:                No halving
 
-• Ticker:           ABTC
+• Ticker:                 ABTC
 
-• Block size:       4mb
+• Block size:             4mb
 
-• TPS:      	      66.7 - approximately (Transaction per second)
+• TPS:      	            66.7 - approximately (Transaction per second)
 
-• P2P Port:         9779 - 19779 - 29779
+• P2P Port:               9779 - 19779 - 29779
 
-• RPC Port:         9778 - 19778 - 29778
+• RPC Port:               9778 - 19778 - 29778
 
-• Max supply:       21,024,000 ABTC
+• Max supply:             21,000,000 ABTC
 
-• POW Maturity:     100 blocks
+• Premined:               19,000,000
 
-• Smallest Unit:    YOD
+• Smallest Unit:          YOD
 
-• Premined:         0 - none
+• Premined:               0 - none
 
-• Mining phase:     7 years - 2,555 days
+• Mining phase:           118 years - September 21st, 2022 to September 20th, 2140
 
-• Premined:         "Genesis 1-3 And God said, “Let there be light,” and there was light"
+• POW Maturity:           100 blocks
 
-
+• Genesis Block Message:  "Genesis 1-3 And God said, “Let there be light,” and there was light"
 
 
 
